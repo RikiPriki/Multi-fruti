@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Multi-fruti/static/css/main.7a1116c8.chunk.css",
+    "main.js": "/Multi-fruti/static/js/main.6a649f15.chunk.js",
+    "main.js.map": "/Multi-fruti/static/js/main.6a649f15.chunk.js.map",
+    "runtime-main.js": "/Multi-fruti/static/js/runtime-main.353659a3.js",
+    "runtime-main.js.map": "/Multi-fruti/static/js/runtime-main.353659a3.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/Multi-fruti/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.aa4ccd23.chunk.js": "/Multi-fruti/static/js/2.aa4ccd23.chunk.js",
+    "static/js/2.aa4ccd23.chunk.js.map": "/Multi-fruti/static/js/2.aa4ccd23.chunk.js.map",
+    "index.html": "/Multi-fruti/index.html",
+    "precache-manifest.5d6ecc44e85a46d4f77115e7400fe136.js": "/Multi-fruti/precache-manifest.5d6ecc44e85a46d4f77115e7400fe136.js",
+    "service-worker.js": "/Multi-fruti/service-worker.js",
+    "static/css/2.2cfa1b23.chunk.css.map": "/Multi-fruti/static/css/2.2cfa1b23.chunk.css.map",
+    "static/css/main.7a1116c8.chunk.css.map": "/Multi-fruti/static/css/main.7a1116c8.chunk.css.map",
+    "static/js/2.aa4ccd23.chunk.js.LICENSE.txt": "/Multi-fruti/static/js/2.aa4ccd23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.353659a3.js",
+    "static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.aa4ccd23.chunk.js",
+    "static/css/main.7a1116c8.chunk.css",
+    "static/js/main.6a649f15.chunk.js"
+  ]
+}
